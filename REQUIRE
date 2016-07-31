@@ -1,3 +1,4 @@
-julia 0.3
+julia 0.4
 Polynomials
+ForwardDiff
 Compat 0.4.1
